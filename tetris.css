@@ -1,0 +1,58 @@
+.cell {
+	float: left;
+	width: 30px;
+	height: 30px;
+	border: 1px solid black;
+}
+
+.row {
+	height: 32px;
+}
+
+.display {
+	float: left;
+	border: 1px solid black;
+	background-color: black;
+}
+
+.block {
+	background-color: blue;
+}
+
+.score-display {
+	clear: both;
+}
+
+.score {
+	font: 16px/18px sans-serif;
+}
+
+
+/*Piece Colors */
+.Aqua {
+	background-color: Aqua;
+}
+
+.Blue {
+	background-color: Blue;
+}
+
+.DarkOrange {
+	background-color: DarkOrange;
+}
+
+.Yellow {
+	background-color: Yellow;
+}
+
+.Lime {
+	background-color: Lime;
+}
+
+.Purple {
+	background-color: Purple;
+}
+
+.Red {
+	background-color: Red;
+}
